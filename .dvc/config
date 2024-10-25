@@ -1,0 +1,4 @@
+[core]
+    remote = demodb
+['remote "demodb"']
+    url = /home/mantra/Music/demo1_db
